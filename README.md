@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Developing a new app for managing personal finances.<br>👯 I’m looking to collaborate on Open-source projects related to web development.<br>🤝 I’m looking for help with: improving my data analysis and machine learning skills.<br>💬 Ask me about: My experience working in the tech industry and traveling to different countries.<br> 📫 How to reach me: mattthewparker@proton.me.<br>⚡ Fun fact: I once backpacked through Southeast Asia for six months, exploring various cultures and cuisines along the way.
+🔭 I’m currently working on **Developing a new app for managing personal finances.**<br>👯 I’m looking to collaborate on **Open-source projects related to web development.**<br>🤝 I’m looking for help with **improving my data analysis and machine learning skills.**<br>💬 Ask me about **My experience working in the tech industry and traveling to different countries.**<br> 📫 How to reach me **mattthewparker@proton.me.**<br>⚡ Fun fact **I once backpacked through Southeast Asia for six months, exploring various cultures and cuisines along the way.**
 
 
 ## 🌐 Socials:
